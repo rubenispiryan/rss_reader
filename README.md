@@ -61,7 +61,7 @@ If `--verbose` argument is passed, then all `rss_reader` logs are printed consol
 To test the program you need to run the following command, which will run all unit tests of the application:
 ```python -m unittest```
 
-## Test Results
+## Code Coverage
 
 | Name                                        | Stmts    | Miss   | Cover    |
 |---------------------------------------------|----------|--------|----------|
